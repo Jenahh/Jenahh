@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5501&color=FFFFFF&vCenter=true&center=true&width=470&lines=Software+Engineer;Computer+Scientist;Cybersecurity+Enthusiast;Avid+Gamer;Anime+Lover" 
 </p>
 
-<p align="center"> ![tumblr_nx3n7j9D1l1rluhlpo1_400](https://github.com/user-attachments/assets/18213d30-b784-4010-b4b1-0424f6b009ed)</p>
+  ![tumblr_nx3n7j9D1l1rluhlpo1_400](https://github.com/user-attachments/assets/18213d30-b784-4010-b4b1-0424f6b009ed)
 
 &nbsp;
 &nbsp;
