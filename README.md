@@ -1,3 +1,5 @@
+![tumblr_nx3n7j9D1l1rluhlpo1_400](https://github.com/user-attachments/assets/18213d30-b784-4010-b4b1-0424f6b009ed)
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5501&color=FFFFFF&vCenter=true&center=true&width=470&lines=Software+Engineer;Computer+Scientist;Cybersecurity+Enthusiast;Avid+Gamer;Anime+Lover" 
 </p>
@@ -68,5 +70,3 @@
 &nbsp;
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jenahh&" alt="" /></p>
 
-<p align ="center"><img src="![tumblr_nx3n7j9D1l1rluhlpo1_400](https://github.com/user-attachments/assets/61555663-66cc-4a00-b442-3f0347259a90)
-"></p>
