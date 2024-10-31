@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5501&color=FFFFFF&vCenter=true&center=true&width=470&lines=Software+Engineer;Computer+Scientist;Cyber+Enthusiast;Avid+Gamer;Anime+Fan" 
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5501&color=FFFFFF&vCenter=true&center=true&width=470&lines=Software+Engineer;Computer+Scientist;Cyber+Enthusiast;Avid+Gamer;Anime+Lover" 
 </p>
+  
 &nbsp;
 &nbsp;
 &nbsp;
