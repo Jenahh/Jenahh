@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://wifflegif.com/gifs/620200-cute-hamster-tiny-hamster-gif" 
+  <img src="https://media.giphy.com/media/1CLj1SGUwELTrlBhMB/giphy.gif" width="429" height="480" alt="hamster gif" />
 </p>
 
 &nbsp;
