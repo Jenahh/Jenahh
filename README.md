@@ -2,8 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5501&color=FFFFFF&vCenter=true&center=true&width=470&lines=Software+Engineer;Computer+Scientist;Cybersecurity+Enthusiast;Avid+Gamer;Anime+Lover" 
 </p>
 
-  ![tumblr_nx3n7j9D1l1rluhlpo1_400](https://github.com/user-attachments/assets/18213d30-b784-4010-b4b1-0424f6b009ed)
-
 &nbsp;
 &nbsp;
 &nbsp;
@@ -12,6 +10,10 @@
   <a href="https://www.linkedin.com/in/jenah-mansour-673460285/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a> 
+</p>
+
+<p align="center">
+<img src="https://wifflegif.com/gifs/620200-cute-hamster-tiny-hamster-gif" 
 </p>
 
 &nbsp;
