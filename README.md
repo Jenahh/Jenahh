@@ -5,6 +5,15 @@
 &nbsp;
 &nbsp;
 &nbsp;
+
+<p align="center">
+  <strong>Hi, I’m Jenah!</strong><br>
+  I’m a Computer Science major at Louisiana State University with a deep curiosity for all things tech. My interests span software engineering, cybersecurity, machine learning, and AI. I love diving into new challenges and exploring how these fields intersect to solve real-world problems.<br><br>
+  I’m driven by a passion to build, protect, and innovate. I enjoy working with new tools, contributing to collaborative projects, and continuously expanding my skill set both inside and outside the classroom.<br><br>
+  Let’s connect on LinkedIn!
+</p>
+
+&nbsp;
   
 <p align="center">
   <a href="https://www.linkedin.com/in/jenah-mansour-673460285/" target="_blank" rel="noreferrer">
