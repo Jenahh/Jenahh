@@ -12,7 +12,7 @@
   I’m a Computer Science major at Louisiana State University with a deep curiosity for all things tech. <br>
   My interests span software engineering, cybersecurity, machine learning, and AI. I love diving <br> into new challenges and exploring how these fields intersect to solve real-world problems.<br><br>
   I’m driven by a passion to build, protect, and innovate. 
-  I enjoy working with new tools, contributing to <br> collaborative projects, and continuously expanding my skill set both inside and outside the classroom.<br><br>
+  I enjoy working with new tools, <br> contributing to collaborative projects, and continuously expanding my skill set both <br> inside and outside the classroom.<br><br>
   Let’s connect on LinkedIn!
 </p>
 
