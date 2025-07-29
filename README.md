@@ -6,10 +6,13 @@
 &nbsp;
 &nbsp;
 
+<h3 align="center">Hi, I’m Jenah!</h3>
+
 <p align="center">
-  <strong>Hi, I’m Jenah!</strong><br>
-  I’m a Computer Science major at Louisiana State University with a deep curiosity for all things tech. My interests span software engineering, cybersecurity, machine learning, and AI. I love diving into new challenges and exploring how these fields intersect to solve real-world problems.<br><br>
-  I’m driven by a passion to build, protect, and innovate. I enjoy working with new tools, contributing to collaborative projects, and continuously expanding my skill set both inside and outside the classroom.<br><br>
+  I’m a Computer Science major at Louisiana State University with a deep curiosity for all things tech. <br>
+  My interests span software engineering, cybersecurity, machine learning, and AI. I love diving <br> into new challenges and exploring how these fields intersect to solve real-world problems.<br><br>
+  I’m driven by a passion to build, protect, and innovate. 
+  I enjoy working with new tools, contributing to <br> collaborative projects, and continuously expanding my skill set both inside and outside the classroom.<br><br>
   Let’s connect on LinkedIn!
 </p>
 
@@ -32,6 +35,13 @@
 &nbsp;
 &nbsp;
 &nbsp;
+
+<h3 align="center">Check out my top 3 projects!</h3>
+<p align="center">
+  <a href="https://github.com/CSC-3380-Spring-2025/Team-30" target="_blank">Security Society at LSU Website Remodeling</a><br>
+  <a href="https://github.com/Jenahh/Kittysocial" target="_blank">Kittysocial Social Media Website Project</a><br>
+  <a href="https://github.com/dtaing11/Journey-Buddies" target="_blank">1st Place Hackathon Winning Project</a>
+</p>
 
 <h1 align="center">Languages</h1>
 &nbsp;
